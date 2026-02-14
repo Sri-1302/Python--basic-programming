@@ -1,9 +1,10 @@
 # Python--basic-programming
 This repository contains basic python programs created for practice.
-##programs included:
+## programs included:
 -calculator program 
 -more programs will be added soon
-##technologies used
+## technologies used
 -python
+
 Author: Boni Sri Lakshmi 
 
