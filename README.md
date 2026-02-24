@@ -5,7 +5,9 @@ This repository contains basic python programs created for practice.
 - prime number checker
 - palindrome checker
 - Factorial program
-- Fibonacci series 
+- Fibonacci series
+- Leap year
+- Armstrong Number checker 
 - more programs will be added soon
 ## technologies used
 - python
