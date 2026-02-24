@@ -7,7 +7,9 @@ This repository contains basic python programs created for practice.
 - Factorial program
 - Fibonacci series
 - Leap year
-- Armstrong Number checker 
+- Armstrong Number checker
+- password Strength checker
+- Reverse a Number 
 - more programs will be added soon
 ## technologies used
 - python
